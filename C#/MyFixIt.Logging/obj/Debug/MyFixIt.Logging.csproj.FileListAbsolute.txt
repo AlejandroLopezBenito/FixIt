@@ -1,0 +1,5 @@
+C:\Users\wuhao\Documents\GitHub\DEV202\Fix It app for Scott Guthrie%27s Building Real World Cloud Apps with Windows Azure\C#\MyFixIt.Logging\bin\Debug\MyFixIt.Logging.dll
+C:\Users\wuhao\Documents\GitHub\DEV202\Fix It app for Scott Guthrie%27s Building Real World Cloud Apps with Windows Azure\C#\MyFixIt.Logging\bin\Debug\MyFixIt.Logging.pdb
+C:\Users\wuhao\Documents\GitHub\DEV202\Fix It app for Scott Guthrie%27s Building Real World Cloud Apps with Windows Azure\C#\MyFixIt.Logging\obj\Debug\MyFixIt.Logging.csprojResolveAssemblyReference.cache
+C:\Users\wuhao\Documents\GitHub\DEV202\Fix It app for Scott Guthrie%27s Building Real World Cloud Apps with Windows Azure\C#\MyFixIt.Logging\obj\Debug\MyFixIt.Logging.dll
+C:\Users\wuhao\Documents\GitHub\DEV202\Fix It app for Scott Guthrie%27s Building Real World Cloud Apps with Windows Azure\C#\MyFixIt.Logging\obj\Debug\MyFixIt.Logging.pdb
